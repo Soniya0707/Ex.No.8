@@ -1,6 +1,6 @@
 ## Exp 8: Reproducing an Image Using Prompts for Image Generation
 
-# Date :23/05/2026
+# Date :03/06/2026
 # Reg. No:212223060268(Soniya D)
 ---
 
