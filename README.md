@@ -56,7 +56,8 @@ To demonstrate how text-to-image generation tools can reproduce an existing imag
 
 ## **Original Image**
 
-<img width="1024" height="565" alt="image" src="https://github.com/user-attachments/assets/4e8a1cab-24b5-4b87-8f60-11f89ac91a78" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/9337afd5-3e19-418f-aa96-e36d3534dddb" />
+
 
 
 
@@ -90,7 +91,8 @@ potted plants, and a lush garden filled with colorful flowers and greenery under
 
 ## **Generated Image**
 
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/0eacc25b-a235-40f6-8b62-4e6b3c70a5af" />
+<img width="1402" height="1122" alt="image" src="https://github.com/user-attachments/assets/cfda8b0d-b1b2-4c6a-9b9e-8f62997ab5a2" />
+
 
 
 ---
@@ -128,7 +130,8 @@ Mention the camera angle (low angle, close-up shot).
 
 ## **Original Image**
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/5300486a-0253-497e-9d34-121ea42ba4fe" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3a6720cc-2595-435e-a0b4-66febdce1d49" />
+
 
 
 ---
@@ -160,7 +163,8 @@ peaceful atmosphere inspired by classic Japanese watercolor anime art.
 
 ## **Generated Image**
 
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/c9ad537d-8ebe-4c2f-8935-f8f84abad02d" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f4494aea-b17f-471f-a06f-6428915dffc9" />
+
 
 
 ---
